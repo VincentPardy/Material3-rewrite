@@ -11,7 +11,8 @@ A Material 3-inspired theme for Better Lyrics on YouTube Music.
 - Dark interface with expressive, colorful accents
 - Dynamic color styling inspired by Material You
 - Material 3 expressive loading indicator replacing the default spinner
-- Credits: @VincentPardy M3 Expressive Progress 
+- Credits: -@adidotzip Theme Code -@VincentPardy M3 Expressive Progress +
+theme rewrite / cleanup
 - Minimal layout designed to keep lyrics easy to read
 
 ## Preview
